@@ -9,6 +9,7 @@ profile:
   image: aleksanteri-sladek.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p><b>Aleksanteri Sladek</b></p>
     <p>Doctoral Researcher</p>
     <p>Aalto University</p>
     <p>Espoo, Finland</p>
@@ -17,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
